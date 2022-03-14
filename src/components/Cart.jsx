@@ -1,10 +1,6 @@
 import React from "react";
 const Cart = () => {
-  return (
-    <div>
-      <h1>Your products cart:</h1>
-    </div>
-  );
+  return <h1>Your products cart:</h1>;
 };
 
 export default Cart;
