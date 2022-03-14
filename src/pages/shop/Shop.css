@@ -1,0 +1,22 @@
+.shop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cart {
+  position: fixed;
+  top: 0;
+  right: 70%;
+  padding: 24px;
+}
+
+.shop a {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.shop button {
+  cursor: pointer;
+  width: 100px;
+}
